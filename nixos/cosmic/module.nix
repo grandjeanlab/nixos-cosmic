@@ -141,7 +141,7 @@ in
        geoclue2 = {
           enable = true;
           enableDemoAgent = false;
-          whitelistedAgents = ["geoclue-demo-agent"];
+          #whitelistedAgents = ["geoclue-demo-agent"];
        };
     };
    
